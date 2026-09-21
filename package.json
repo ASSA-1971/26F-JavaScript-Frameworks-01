@@ -1,0 +1,19 @@
+{
+  "name": "comp2068-lab2",
+  "version": "1.0.0",
+  "description": "Comp2068 Lab2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aarif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.2",
+    "typescript": "^7.0.2"
+  }
+}
